@@ -1,1 +1,3 @@
-# qhelper-attendance-group-assignment-template
+## Attendance for today
+
+> Add your name here
