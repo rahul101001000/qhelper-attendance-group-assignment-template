@@ -1,0 +1,1 @@
+# qhelper-attendance-group-assignment-template
